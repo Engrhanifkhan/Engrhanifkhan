@@ -77,6 +77,22 @@ I am a passionate **Hardware & Embedded Systems Engineer** specializing in end-t
       <img src="https://img.shields.io/badge/Circuit_Simulation-gray?style=flat-square" />
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>📺 <a href="https://github.com/Engrhanifkhan/esp32-ili9341-tft-display">ESP32 ILI9341 SPI TFT Suite</a></h3>
+      <p>Hardware testing suite and telemetry dashboard for ESP32 and 2.8" SPI ILI9341 TFT display featuring low-level MADCTL mirror fix and benchmark telemetry widgets.</p>
+      <img src="https://img.shields.io/badge/ESP32-VSPI-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/TFT_ILI9341-Verified-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Adafruit_GFX-C%2B%2B-brightgreen?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>💧 <a href="https://github.com/Engrhanifkhan/wireless-tank-level-indicator">Wireless Tank Level & Pump Control</a></h3>
+      <p>Dual-mode reservoir telemetry with ESP-NOW zero-latency peer-to-peer transmission, AJ-SR04M waterproof ultrasonic sensing, SSR pump automation, and Blynk IoT monitoring.</p>
+      <img src="https://img.shields.io/badge/ESP--NOW-Peer--to--Peer-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Ultrasonic-AJ--SR04M-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Blynk_IoT-Pump_Control-24C48E?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 ---
