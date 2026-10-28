@@ -6,7 +6,7 @@
 **Junior Hardware Engineer at Centre of Intelligent Systems & Network Research (CISNR), UET Peshawar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engr_Hanif_Khan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/engr-hanif-khan-628a04259/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_311_8221686-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923118221686)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_315_9915537-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923159915537)
 [![Email](https://img.shields.io/badge/Email-Hanifullahshams@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hanifullahshams@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live_Demo-Geothermal_Monitor-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white)](https://engrhanifkhan.github.io/shallow-geothermal-monitor/)
 
@@ -172,6 +172,6 @@ I am a passionate **Hardware & Embedded Systems Engineer** specializing in end-t
 
 Whether you want to discuss an embedded hardware project, collaborate on IoT telemetry, or have engineering inquiries:
 
-- **WhatsApp / Phone:** [+92 311 8221686](https://wa.me/923118221686)
+- **WhatsApp / Phone:** [+92 315 9915537](https://wa.me/923159915537)
 - **LinkedIn:** [linkedin.com/in/engr-hanif-khan-628a04259](https://www.linkedin.com/in/engr-hanif-khan-628a04259/)
 - **Email:** [Hanifullahshams@gmail.com](mailto:Hanifullahshams@gmail.com)
