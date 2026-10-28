@@ -2,7 +2,7 @@
 
 # Hi there, I'm Engr. Hanif Khan 👋
 
-### ⚡ Hardware & Embedded Systems Engineer | IoT & Firmware Specialist
+### ⚡ Hardware & Embedded Systems Engineer | Full-Stack FYP & Software Solutions
 **Junior Hardware Engineer at Centre of Intelligent Systems & Network Research (CISNR), UET Peshawar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engr_Hanif_Khan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/engr-hanif-khan-628a04259/)
@@ -13,6 +13,20 @@
 </div>
 
 ---
+
+
+---
+
+### 🎓 Complete Final Year Projects (FYP) & Custom Software Solutions
+
+> **Need a complete FYP or engineering project built from scratch?**  
+> I design, assemble, program, and deliver **100% turnkey solutions** for university students (Electrical, Electronics, Mechatronics, Computer Engineering, CS) and industry clients:
+> 
+> * 🛠️ **Hardware & Embedded:** Custom PCB design, circuit schematics, sensor interfacing, and multi-axis motor drivers (ESP32, STM32, Arduino, Raspberry Pi, LoRa, GSM, GPS).
+> * 💻 **All Types of Software:** Full-stack real-time Web Dashboards (React, Next.js), Mobile Applications (Flutter Android/iOS), Desktop GUIs (Python), and Cloud IoT telemetry (MQTT, Firebase, Blynk).
+> * 📚 **Academic Deliverables:** Complete working physical model, clean commented source code, Proteus circuit simulation, comprehensive thesis/report documentation, and one-on-one viva/defense coaching.
+> 
+> 📲 **Order or Discuss Your Project directly on WhatsApp:** [**+92 315 9915537**](https://wa.me/923159915537)
 
 ### 👨‍💻 About Me
 
