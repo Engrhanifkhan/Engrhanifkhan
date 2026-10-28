@@ -20,7 +20,7 @@
 ### 🎓 Complete Final Year Projects (FYP) & Custom Software Solutions
 
 > **Need a complete FYP or engineering project built from scratch?**  
-> I design, assemble, program, and deliver **100% turnkey solutions** for university students (Electrical, Electronics, Mechatronics, Computer Engineering, CS) and industry clients:
+> I design, assemble, program, and deliver **100% solutions** for university students (Electrical, Electronics, Mechatronics, Computer Engineering, CS) and industry clients:
 > 
 > * 🛠️ **Hardware & Embedded:** Custom PCB design, circuit schematics, sensor interfacing, and multi-axis motor drivers (ESP32, STM32, Arduino, Raspberry Pi, LoRa, GSM, GPS).
 > * 💻 **All Types of Software:** Full-stack real-time Web Dashboards (React, Next.js), Mobile Applications (Flutter Android/iOS), Desktop GUIs (Python), and Cloud IoT telemetry (MQTT, Firebase, Blynk).
